@@ -53,7 +53,7 @@
 }
 
 .product-tabs > ul li a:hover, 
-.product-tabs > ul li.active {
+.product-tabs > ul li.active a {
     color: #e2068c!important;
     border-bottom: 1px solid #e2068c!important;
     text-decoration: none;
