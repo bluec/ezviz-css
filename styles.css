@@ -52,8 +52,9 @@
     margin: 0 0 -1px 0;
 }
 
-.product-tabs > ul li a:hover, .product-tabs > ul li.active {
-    color: #e2068c;
-    border-bottom: 1px solid #e2068c;
+.product-tabs > ul li a:hover, 
+.product-tabs > ul li.active {
+    color: #e2068c!important;
+    border-bottom: 1px solid #e2068c!important;
     text-decoration: none;
 }
