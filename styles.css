@@ -21,3 +21,27 @@
 .header-container.type15 .mini-cart .mybag-link, .header-container.type2 .mini-cart .mybag-link, .header-container.type8 .header .mini-cart {
 	background-color: #fff!important;
 }
+
+.category-products .item .details-area .actions a.addtocart {
+		border:0!important;
+}
+
+.product-tabs ul {
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 15px 0;
+}
+
+.product-tabs > ul li, .product-tabs > ul li.active {
+	background-color: #fff;
+	border:0;
+}
+
+.product-tabs > ul li a {
+    color: #777;
+    font-size: 16px;
+}
+
+.product-tabs .tab-content {
+	border:0;
+}
