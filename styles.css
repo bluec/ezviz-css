@@ -4,3 +4,16 @@
 .top-container > .breadcrumbs {
 	background-color: #01adef;
 }
+
+.header-container.type1 .main-nav ul.menu > li > a,
+.header-container.type1 .mini-cart .mybag-link, .header-container.type11 .mini-cart .mybag-link, .header-container.type12 .mini-cart .mybag-link, .header-container.type15 
+
+.mini-cart .mybag-link, .header-container.type2 .mini-cart .mybag-link, .header-container.type8 .header .mini-cart {
+	color: #6d6e70!important;
+}
+
+.header-container.type1 .compare-link > a, .header-container.type8 .compare-link > a, .header-container.type15 .compare-link > a, .header-container.type12 .compare-link > 
+
+a, .header-container.type11 .compare-link > a {
+	background-color: #fff!important;
+}
