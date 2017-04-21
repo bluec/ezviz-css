@@ -48,11 +48,11 @@
 
 .product-tabs > ul li a {
     border-bottom: 1px solid #e5e5e5;
-    padding-bottom: 15px;
+    padding-bottom: 26px;
     margin: 0 0 -1px 0;
 }
 
-.product-tabs > ul li a:hover {
+.product-tabs > ul li a:hover, .product-tabs > ul li.active {
     color: #e2068c;
     border-bottom: 1px solid #e2068c;
     text-decoration: none;
