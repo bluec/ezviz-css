@@ -150,3 +150,13 @@
 .etalage_smallthumb_active {
     border-top: 4px solid #faa61a !important;
 }
+
+.product-view .product-essential .ratings .rating-box .rating::before {
+    width: 120px;
+    height: 21px;
+}
+
+.product-view .product-essential .ratings .rating-box .rating {
+    height: 17px;
+    width: 100%;
+}
