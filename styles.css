@@ -169,7 +169,12 @@
     line-height: 26px!important;
 }
 
-.product-tabs > ul li, .product-tabs > ul li.active {
+
+@media screen and (max-width: 524px) {
+
+ .product-tabs > ul li, .product-tabs > ul li.active {
     display: block!important;
     width: 100%!important;
+ }
+
 }
