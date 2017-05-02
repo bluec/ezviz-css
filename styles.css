@@ -75,7 +75,7 @@
 }
 	
 .ratings a {
-	color: #01adef;
+	color: #01adef!important;
 }
 
 .product-options dd select {
@@ -109,10 +109,11 @@
 
 .product-view .product-essential .ratings .rating-box {
     width: 120px;
-    height: 23px;
+    height: 3px;
 }
 
 .product-view .product-essential .ratings .rating-box::before {
+	width: 120px;
     font-size: 20px;
 }
 
