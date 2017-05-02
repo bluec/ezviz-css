@@ -158,7 +158,6 @@
 
 .product-view .product-essential .ratings .rating-box .rating {
     height: 17px!important;
-    width: 100%!important;
 }
 
 .product-view .product-essential .ratings .rating-box .rating::before {
