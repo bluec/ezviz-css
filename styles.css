@@ -152,11 +152,11 @@
 }
 
 .product-view .product-essential .ratings .rating-box .rating::before {
-    width: 120px;
-    height: 21px;
+    width: 120px!important;
+    height: 21px!important;
 }
 
 .product-view .product-essential .ratings .rating-box .rating {
-    height: 17px;
-    width: 100%;
+    height: 17px!important;
+    width: 100%!important;
 }
