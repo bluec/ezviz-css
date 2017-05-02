@@ -164,3 +164,12 @@
 .product-view .product-essential .ratings .rating-box .rating::before {
     font-size: 20px!important;
 }
+
+.ratings .rating-links .separator {
+    line-height: 26px!important;
+}
+
+.product-tabs > ul li, .product-tabs > ul li.active {
+    display: block!important;
+    width: 100%!important;
+}
