@@ -58,3 +58,64 @@
     border-bottom: 1px solid #e2068c!important;
     text-decoration: none;
 }
+
+
+
+.ez-product-ticks li:before {
+    	content: "\f00c";
+    	font-family: FontAwesome;
+    	display: inline-block;
+    	color: #01adef;
+	padding: 0 10px 0 0;
+}
+
+.ez-product-ticks li {
+    padding: 7px 0;
+    font-size: 16px;
+}
+	
+.ratings a {
+	color: #01adef;
+}
+
+.product-options dd select {
+    width: 280px;
+    background: #e5e5e5;
+    padding: 5px;
+    height: 40px;
+}
+
+.qty-holder {
+    display: block;
+}
+
+.add-to-cart button.button {
+    display: block !important;
+    margin: 15px 0;
+    clear: both;
+    background: #4cb848 !important;
+    width: 280px;
+}
+
+.product-options-bottom .add-to-links {
+    position: relative;
+}
+
+.product-view .add-to-links li, .product-view .add-to-links li .separator {
+    display: inline;
+    position: absolute;
+    top: 23px;
+}
+
+.product-view .product-essential .ratings .rating-box {
+    width: 120px;
+    height: 23px;
+}
+
+.product-view .product-essential .ratings .rating-box::before {
+    font-size: 20px;
+}
+
+.ratings .rating-links {
+    margin-top: -7px;
+}
