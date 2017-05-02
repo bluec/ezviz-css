@@ -104,12 +104,12 @@
 .product-view .add-to-links li, .product-view .add-to-links li .separator {
     display: inline;
     position: absolute;
-    top: 23px;
+    top: 3px;
 }
 
 .product-view .product-essential .ratings .rating-box {
     width: 120px;
-    height: 3px;
+    height: 21px;
 }
 
 .product-view .product-essential .ratings .rating-box::before {
