@@ -120,3 +120,18 @@
 .ratings .rating-links {
     margin-top: -7px;
 }
+
+#delivery-countdown {
+    color: #006400;
+    background-color: #e5efe5;
+    padding: 40px;
+}
+
+#delivery-countdown p:before {
+	content: "\f00c";
+	font-family: FontAwesome;
+	display: inline-block;
+	color: #006400;
+	padding: 0 30px 0 0;
+	font-size: 22px;
+}
